@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Product Type",
+    "property": "product_types"
+  },
+  {
+    "label": "PT created",
+    "property": "pt_created"
+  },
+  {
+    "label": "Nav Node",
+    "property": "nav_present"
+  },
+    {
+    "label": "Classy Devo",
+    "property": "classy_present"
+  }, 
+ {
+    "label": "Devo Enabled",
+    "property": "devo_enabled"
+  },
+    {
+    "label": "Devo Testing",
+    "property": "devo_tested"
+  },
+    {
+    "label": "Launched",
+    "property": "pt_launched"
+  }
+]
